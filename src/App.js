@@ -9,7 +9,7 @@ function App() {
         <p>
           Hi
         </p>
-        <p>my name is sudobash</p>
+        <p>bootcamp bda</p>
         <a
           className="App-link"
           href="https://reactjs.org"
